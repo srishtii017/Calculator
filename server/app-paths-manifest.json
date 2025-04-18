@@ -1,0 +1,5 @@
+{
+  "/api/proxy/health-check/route": "app/api/proxy/health-check/route.js",
+  "/api/mock/numbers/[type]/route": "app/api/mock/numbers/[type]/route.js",
+  "/page": "app/page.js"
+}
